@@ -1,1 +1,6 @@
-footer { background: gray; }
+footer {
+  background: gray;
+}
+body {
+  background: red;
+}
